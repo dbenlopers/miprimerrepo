@@ -1,0 +1,2 @@
+# miprimerrepo
+las buenas prácticas
